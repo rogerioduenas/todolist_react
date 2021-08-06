@@ -1,4 +1,4 @@
-# To-Do List feico com React
+# To-Do List desenvolvido com React
 
 Este projeto foi inicializado com [Create React App] (https://github.com/facebook/create-react-app).
 
