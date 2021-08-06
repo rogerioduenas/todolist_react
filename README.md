@@ -1,4 +1,4 @@
-# Primeiros passos com Criar aplicativo React
+# To-Do List feico com React
 
 Este projeto foi inicializado com [Create React App] (https://github.com/facebook/create-react-app).
 
